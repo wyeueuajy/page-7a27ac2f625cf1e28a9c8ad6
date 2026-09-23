@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e70b243f12480fc1f1ffabb0",
+  "owner": "wyeueuajy",
+  "repo": "page-7a27ac2f625cf1e28a9c8ad6",
+  "title": "行云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a27ac2f625cf1e28a9c8ad6",
+      "a": "行云",
+      "b": "2027官方最新地址导航",
+      "entity": "行云",
+      "brand": "行云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "84813f7c1619a77f09cc69b7a2242d7c1df79f73a540daf125b01da8aa47d5c6",
+      "content": {
+        "primary_entity": "行云",
+        "keyword1": "行云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅链接通用，各平台配置方法可查对应说明。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，行云提供基础版、旗舰版与团队版三档订阅，流量从每月100GB到1000GB，可同时在线设备从3台到20台。旗舰版与团队版覆盖全节点原生流媒体与专线优化，适合多设备家庭或小型团队。按年付可节省两个月费用，订阅链接在各主流客户端通用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和专线能力三个角度对比套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择关键点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度浏览，旗舰版每月300GB满足日常影音，团队版每月1000GB面向多人共享。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，多设备用户可优先考虑后两档。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版包含IPLC专线及流媒体解锁，对延迟和画质有要求的场景更适合。",
+          "AI_FEATURE_TITLE_1": "按流量档位选",
+          "AI_FEATURE_TITLE_2": "按在线设备数选",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到订阅配置的流程。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "行云面向需要跨境网络加速的用户，提供基础版、旗舰版和团队版三档订阅方案。流量、设备数量与线路类型按档位区分，可按年付节省费用。",
+          "AI_HERO_SUBTITLE": "行云多档订阅灵活适配",
+          "AI_HIGHLIGHT_1": "每月100GB至1000GB流量",
+          "AI_HIGHLIGHT_2": "3台至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "全节点原生流媒体解锁",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先区分个人日常、家庭多设备或团队共享场景，对照流量和在线设备数确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的线路类型与流媒体支持范围，确认与常用客户端系统匹配。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按所用客户端的内置导入或手动添加方式完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "行云加速订阅",
+          "AI_FAQ_TITLE": "行云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "行云基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线，解锁基础流媒体；旗舰版每月 300GB 流量、5 台设备在线，含全节点原生流媒体解锁和 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_2": "行云支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。选择时可按日常同时使用的手机、电脑和平板数量来判断。",
+          "AI_FAQ_QUESTION_3": "行云可以按年付费吗？",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比按月付费月均成本更低，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或小型团队集中使用。",
+          "AI_FAQ_QUESTION_5": "如何在常用客户端上使用行云？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装支持订阅导入的客户端，如桌面端的 Clash、Surge，移动端的 Shadowrocket、V2rayNG 等，再按客户端文档导入订阅信息即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jdxyspw.cn",
+    "host": "jdxyspw.cn"
+  },
+  "file_hashes": {
+    "index.html": "a9a440df04062f1149136ab2786b005bb2f74a7749082e45dcc0caf80d9d8cc7",
+    "sitemap.xml": "fe5e1cfff8346123fbea924f88dbffbff44c8f6d1ec8cb222a6700ef1b7a08d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c4d184cf41ea67d51449fe05796c26267484c7914e1ec578b300c872dd3493e4",
+    "robots.txt": "935bc261a4df9ba6a0cb20e3dab809071c41213961dd9a11cdf692c63bebded3",
+    "edf9b89b770ce7204ded63d62fc35962.txt": "a53a3ccc277875edb4b0e217a55f614198130deff0e097a3676e6883cb96d608"
+  },
+  "revision": "8d55ac7387654298185b4d4cc39e526fc0d5fd810d80cc7e0a8d34d8c8b61a82"
+}
